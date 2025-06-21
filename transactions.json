@@ -1,0 +1,23 @@
+[
+    {
+        "type": "income",
+        "amount": 60000.0,
+        "category": "salary",
+        "description": "Recived salary today",
+        "date": "2025-06-21 23:20"
+    },
+    {
+        "type": "expense",
+        "amount": 4000.0,
+        "category": "furniture",
+        "description": "To buy a Chair",
+        "date": "2025-06-21 23:21"
+    },
+    {
+        "type": "expense",
+        "amount": 3000.0,
+        "category": "EarBuds",
+        "description": "To buy a oneplus earbuds",
+        "date": "2025-06-21 23:23"
+    }
+]
